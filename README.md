@@ -9,4 +9,4 @@ I try to keep it in sync and up to date with Bitters.
 
 In your Compass config file: `require 'bitters-compass'`.
 
-In your Sass file: `@import 'bitters/bitters'`.
+In your Sass file: `@import 'bitters'`.

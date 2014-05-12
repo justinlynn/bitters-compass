@@ -17,6 +17,6 @@ Gem::Specification.new do |s|
 
   # Gem Bookkeeping
   s.rubygems_version = %q{1.3.6}
-  s.add_dependency("compass", [">= 0.13.alpha.10"])
-  s.add_dependency("sass", [">= 3.3"])
+  s.add_dependency("compass", ["~> 0.12.2"])
+  s.add_dependency("sass", ["~> 3.3"])
 end
